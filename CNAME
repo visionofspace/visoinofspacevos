@@ -1,8 +1,1 @@
-$ dig WWW.VISIONOFSPACE.ML +nostats +nocomments +nocmd
-    > ;WWW.VISIONOFSPACE.ML.                     IN      A
-    > WWW.VISIONOFSPACE.ML.              3592    IN      CNAME   visionofspace.github.io.
-    > visionofspace.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
-    >  GITHUB-PAGES-SERVER .         22     IN      A       185.199.108.153
-    >  GITHUB-PAGES-SERVER .         22     IN      A       185.199.109.153
-    >  GITHUB-PAGES-SERVER .         22     IN      A       185.199.110.153
-    >  GITHUB-PAGES-SERVER .         22     IN      A       185.199.111.153
+visionofspace.ml
