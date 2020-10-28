@@ -168,14 +168,14 @@ Embed { height:40%;
 	margin-left: auto;
 	margin-right: auto;}
 .imagebox {
-  width: 100%;
+  width: 49%;
   float: left;
 margin-left: auto;
 	margin-right: auto;
 }
 
 .textbox {
-  width: 50%;
+  width: 51%;
   float: right;
   text-align: center;
   padding-top: 20px;
@@ -185,8 +185,8 @@ margin-left: auto;
 	margin-right: auto;
 }
 Img {
-     Width:50%;
-     Height:50%;
+     Width:49%;
+     Height:49%;
      Float:left;
      Padding-top:20px;
      margin-left: auto;
@@ -194,11 +194,11 @@ Img {
      }
 
 .textbox2 {
-  width: 50%;
+  width: 100%;
   float: right;
   text-align: center;
   padding-top: 20px;
   background-color: #666;
   color: white;
 margin-left: auto;
-	margin-right: auto;
+	margin-right: auto;}
