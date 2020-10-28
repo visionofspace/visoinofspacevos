@@ -184,3 +184,11 @@ margin-left: auto;
 margin-left: auto;
 	margin-right: auto;
 }
+Img {
+     Width:40%;
+     Height:30%;
+     Float:left;
+     Padding-top:20px;
+     margin-left: auto;
+     margin-right: auto;
+     }
