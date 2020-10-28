@@ -50,13 +50,7 @@ h3	{
 	text-align:center;
 	color:black;
 	}
-IMG	{
-	height:30%;
-	width:40%;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	}
+
 * {box-sizing: border-box}
 
 .mySlides {display: none}
