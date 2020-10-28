@@ -14,7 +14,7 @@ ul {
 	font-size:13px;
 	position: fixed;
 	top: 0;
-	width: 80%;
+	width: 100%;
 	}
 li {
 	color:white;
@@ -185,7 +185,7 @@ margin-left: auto;
 	margin-right: auto;
 }
 Img {
-     Width:100%;
+     Width:50%;
      Height:100%;
      Float:left;
      Padding-top:20px;
