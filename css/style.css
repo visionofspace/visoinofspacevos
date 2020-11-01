@@ -1,3 +1,6 @@
+p.ex1 {
+  max-width: 640px;
+} 
 body {
 	margin-left: auto;
 	margin-right: auto;
@@ -168,14 +171,14 @@ Embed { height:40%;
 	margin-left: auto;
 	margin-right: auto;}
 .imagebox {
-  width: 49%;
+  width: 340px;
   float: left;
 margin-left: auto;
 	margin-right: auto;
 }
 
 .textbox {
-  width: 51%;
+  width: 340px;
   float: right;
   text-align: center;
   padding-top: 20px;
