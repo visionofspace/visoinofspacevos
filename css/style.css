@@ -2,7 +2,7 @@
 body {
 	margin-left: auto;
 	margin-right: auto;
-	width:720px;
+	width:80%;
 	}
 ul {
 	margin:"0";
@@ -15,7 +15,7 @@ ul {
 	font-size:20px;
 	position: fixed;
 	top: 0;
-	width: 720px;
+	width: 80%;
 	}
 li {
 	color:white;
@@ -169,14 +169,14 @@ Embed { height:40%;
 	margin-left: auto;
 	margin-right: auto;}
 .imagebox {
-  width: 360px;
+  width: 51%;
   float: left;
 margin-left: auto;
 	margin-right: auto;
 }
 
 .textbox {
-  width: 360px;
+  width: 49%;
   float: right;
   text-align: center;
   padding-top: 20px;
