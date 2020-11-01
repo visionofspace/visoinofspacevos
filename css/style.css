@@ -188,8 +188,8 @@ margin-left: auto;
 	margin-right: auto;
 }
 Img {
-     Width:99%;
-     Height:80%;
+     Width:360px;
+     Height:200px;
      Float:left;
      Padding-top:20px;
      margin-left: auto;
@@ -197,7 +197,7 @@ Img {
      }
 
 .textbox2 {
-  width: 100%;
+  width: 360px;
   float: right;
   text-align: center;
   padding-top: 20px;
