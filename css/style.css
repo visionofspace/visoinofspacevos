@@ -176,7 +176,7 @@ margin-left: auto;
 }
 
 .textbox {
-  width:100%;
+  width:500px;
   float: right;
   text-align: center;
   padding-top: 20px;
@@ -186,7 +186,7 @@ margin-left: auto;
 	margin-right: auto;
 }
 Img {
-     Width:100%;
+     Width:500px;
      Height:75%;
      Float:left;
      Padding-top:20px;
