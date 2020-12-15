@@ -169,14 +169,14 @@ Embed { height:40%;
 	margin-right: auto;}
 .imagebox {
   width:500px;
-  float: left;
+  float: center;
 margin-left: auto;
 	margin-right: auto;
 }
 
 .textbox {
-  width:500px;
-  float: right;
+  width:100%;
+  float: center;
   text-align: center;
   padding-top: 20px;
   background-color: #666;
@@ -187,15 +187,15 @@ margin-left: auto;
 Img {
      Width:100%;
      Height:75%;
-     Float:left;
+     Float:center;
      Padding-top:20px;
      margin-left: auto;
      margin-right: auto;
      }
 
 .textbox2 {
-  width: 500px;
-  float: right;
+  width: 100%;
+  float: center;
   text-align: center;
   padding-top: 20px;
   background-color: #666;
